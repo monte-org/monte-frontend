@@ -135,8 +135,8 @@ Monte/
 ### 1. Clone the Repository
 
 ```bash
-git clone  https://github.com/StellarPaya/monte.git
-cd monte
+git clone  https://github.com/monte-org/monte-frontend.git
+cd monte-frontend
 ```
 
 ### 2. Install Frontend Dependencies
